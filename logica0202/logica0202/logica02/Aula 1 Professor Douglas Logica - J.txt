@@ -1,0 +1,12 @@
+Aula 1 Professor Douglas Logica - Java
+
+-Parte 1
+Imprimir uma mensagem com o nome concatenando.
+
+sites que acessei:https://codegym.cc/pt/groups/posts/pt.484.sintaxe-java-uma-breve-introducao-a-linguagem-de-programação
+
+Parte 2 
+Somar dois números
+
+Parte 3 
+Leitura e entrada de dados
