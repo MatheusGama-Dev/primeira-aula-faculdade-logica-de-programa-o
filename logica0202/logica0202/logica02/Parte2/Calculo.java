@@ -1,0 +1,10 @@
+public class Calculo {
+    public static void main(String[] args) {
+        int A = 10;
+        int B = 10;
+        int C = A + B;
+
+        System.out.println("Seu resultado é "+ C);
+       
+    }
+}
